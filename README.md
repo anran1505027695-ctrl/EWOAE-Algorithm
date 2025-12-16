@@ -12,6 +12,7 @@ decision logic, rather than to serve as a fully automated software package.
 
 ## Notes
 - The code demonstrates the key computational steps of the algorithm.
+- The code is designed to run on the [Google Earth Engine (GEE)](https://code.earthengine.google.com).
 - Users may need to adapt the code to their own datasets and platforms.
 
 
