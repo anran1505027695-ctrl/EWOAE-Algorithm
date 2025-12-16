@@ -3,7 +3,9 @@
 This repository provides the core algorithm implementation of the
 Elevation- and Water-Occurrence-based (EWOAE) algorithm for recovering
 contaminated pixels in water classification images caused by clouds,
-cloud shadows, and snow. The generated dataset, namely the Global Dryland Lake Storage (GDLS) dataset, can be accessed at Figshare.
+cloud shadows, and snow. The generated dataset, namely the global reservoir monthly surface area (GRMSA) dataset, can be accessed at Zenodo.
+[显示的文字](https://链接地址)
+
 
 The code is intended to illustrate the main algorithmic workflow and
 decision logic, rather than to serve as a fully automated software package.
